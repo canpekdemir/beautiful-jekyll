@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Generate Pdf
+title: Generate PDF from HTML Content
 subtitle: Using itext
 tags: [java,core-renderer,itext,jtidy,pdf]
 ---
-### Generate PDF from HTML Content
-
 This project helps you to create pdf files from html content. It also clears any html errors and does not corrupt for non-english alphabet characters.
 This project uses jtidy and core-renderer as dependency libraries. The core-renderer library uses old itext dependency 2.0.8. 
 
