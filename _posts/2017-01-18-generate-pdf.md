@@ -11,7 +11,8 @@ You can find the project in [here](https://github.com/canpekdemir/pdf-generator)
 
 **Sample Usage**
 
-```javascript
+
+```java
 String outputPath = "output.pdf";
 
 String contentBody = "<h2 style=\"color:red;\">Red style header</h2>\n" +
