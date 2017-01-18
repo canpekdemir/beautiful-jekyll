@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, My name is Can Pekdemir. I am currently working at iyzico as Senior Software Engineer.
+Before iyzico, I worked as a consultant with enterprise Java technologies on companies like Central Registry Agency, Avea, Digiturk, Gittigidiyor (Ebay Turkey).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I mainly focus on following technologies or principles:
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+-	Scalable architectures
+-	Domain Driven Design & Microservices
+-	Continous Delivery Practices
+-	Java Enterprise Frameworks
+- Clean Code
+-	Test Automation
+-	Design Patterns
+-	Any tool or technology that helps me accomplish my goals as a software engineer
