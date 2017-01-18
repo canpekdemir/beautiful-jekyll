@@ -7,9 +7,10 @@ tags: [java,core-renderer,itext,jtidy,pdf]
 This project helps you to create pdf files from html content. It also clears any html errors and does not corrupt for non-english alphabet characters.
 This project uses jtidy and core-renderer as dependency libraries. The core-renderer library uses old itext dependency 2.0.8. 
 
-You can find the project in https://github.com/canpekdemir/pdf-generator
+You can find the project in [here](https://github.com/canpekdemir/pdf-generator)
 
 **Sample Usage**
+
 ```javascript
 String outputPath = "output.pdf";
 
