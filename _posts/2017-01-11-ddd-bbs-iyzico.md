@@ -11,4 +11,4 @@ Today, I presented domain driven design to my colleagues.
 
 You can find the slides in [here](https://www.slideshare.net/canpekdemir/domain-driven-design-71055163)
 
-![DDD](https://canpekdemir.github.io/img/ddd/bbs_can_ddd.jpg "Domain Driven Design BBS")
+<img src="https://canpekdemir.github.io/img/ddd/bbs_can_ddd.jpg" width="400px;" height="400px;">
