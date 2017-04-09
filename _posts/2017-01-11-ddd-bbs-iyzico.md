@@ -9,6 +9,6 @@ Today, I presented domain driven design to my colleagues
 
 You can find the slides in [here](https://www.slideshare.net/canpekdemir/domain-driven-design-71055163)
 
-![Image of Yaktocat]
+![Image of Domain Driven Design BBS]
 
 (https://canpekdemir.github.io/img/ddd/bbs_can_ddd.jpg)
