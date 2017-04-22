@@ -2,7 +2,7 @@
 layout: post
 title: Engineering Culture Presentation
 subtitle: Bahcesehir University Digital Dream Conference
-tags: [domain driven design, iyzico, garajco, education]
+tags: [Bahcesehir University, Engineering Culture, iyzico]
 ---
 Today, i attended to the Bahcesehir University Digital Dream Conference as a speaker.
 I gave a presentation about the engineering culture at iyzico.
