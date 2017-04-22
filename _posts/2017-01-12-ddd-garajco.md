@@ -8,4 +8,6 @@ Today, i repeated my domain driven design presentation in <a href="http://garaj.
 
 Most of the listeners were students and that was really fun.
 
+You can find the slides in [here](https://www.slideshare.net/canpekdemir/domain-driven-design-71055163)
+
 <img src="https://canpekdemir.github.io/img/ddd/can_garaj.jpg">
