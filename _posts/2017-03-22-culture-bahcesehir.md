@@ -14,8 +14,8 @@ Pair programming, test automation, how we apply agile principles and scrum were 
 The last topic was about the hiring process into engineering department.
 The attendance to the conference was pretty much high and it was a joyful day.
 
-<img src="https://canpekdemir.github.io/img/ddd/can_bahce_1.jpg">
+<img src="https://canpekdemir.github.io/img/culture/can_bahce_1.jpg">
 
-<img src="https://canpekdemir.github.io/img/ddd/can_bahce_2.jpg">
+<img src="https://canpekdemir.github.io/img/culture/can_bahce_2.jpg">
 
-<img src="https://canpekdemir.github.io/img/ddd/can_bahce_3.jpg">
+<img src="https://canpekdemir.github.io/img/culture/can_bahce_3.jpg">
